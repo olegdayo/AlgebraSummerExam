@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1624698750 "/Users/olegsidorenkov/Desktop/Algebra/AlgebraSummerExam/TheoryAlgebra.tex" "/Users/olegsidorenkov/Desktop/Algebra/AlgebraSummerExam/TheoryAlgebra.pdf" "TheoryAlgebra" 1624699109
-  "/Users/olegsidorenkov/Desktop/Algebra/AlgebraSummerExam/TheoryAlgebra.aux" 1624698751 786 e276c1d9d9b034b2c246282950a5f4b4 ""
-  "/Users/olegsidorenkov/Desktop/Algebra/AlgebraSummerExam/TheoryAlgebra.tex" 1624699107 11867 60926cfc19c86e88615570b3fb78feb2 ""
+["pdflatex"] 1624714067 "/Users/olegsidorenkov/Desktop/Algebra/AlgebraSummerExam/TheoryAlgebra.tex" "/Users/olegsidorenkov/Desktop/Algebra/AlgebraSummerExam/TheoryAlgebra.pdf" "TheoryAlgebra" 1624714146
+  "/Users/olegsidorenkov/Desktop/Algebra/AlgebraSummerExam/TheoryAlgebra.aux" 1624714068 786 e276c1d9d9b034b2c246282950a5f4b4 ""
+  "/Users/olegsidorenkov/Desktop/Algebra/AlgebraSummerExam/TheoryAlgebra.tex" 1624714144 11867 1ca842041d785888ba4c0bc868387beb ""
   "/Users/olegsidorenkov/Library/texlive/2021/texmf-var/fonts/tfm/lh/lh-t2a/labx1095.tfm" 1621796476 3336 216c27338cb0f11f0d2908d69ce3de23 ""
   "/Users/olegsidorenkov/Library/texlive/2021/texmf-var/fonts/tfm/lh/lh-t2a/larm1095.tfm" 1621796444 3264 ead613d557baebcc53cf028c9c92d927 ""
   "/Users/olegsidorenkov/Library/texlive/2021/texmf-var/fonts/tfm/lh/lh-t2a/larm1728.tfm" 1621796460 3252 92d08740ce00199d6cf9ff4aaada81d1 ""
@@ -125,13 +125,13 @@
   "/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1616695603 5169178 a2ce6e2d73f603b690db6777d06dbccb ""
   "/usr/local/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt" 1617936458 2724738 5fc49e16473d0946998af59f675628a4 ""
   "/usr/local/texlive/2021/texmf.cnf" 1616695596 577 4c1911a7228e554c6032256d3cf5567d ""
-  "TheoryAlgebra.aux" 1624698751 786 e276c1d9d9b034b2c246282950a5f4b4 "pdflatex"
-  "TheoryAlgebra.out" 1624698750 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "TheoryAlgebra.tex" 1624699107 11867 60926cfc19c86e88615570b3fb78feb2 ""
+  "TheoryAlgebra.aux" 1624714068 786 e276c1d9d9b034b2c246282950a5f4b4 "pdflatex"
+  "TheoryAlgebra.out" 1624714068 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "TheoryAlgebra.tex" 1624714144 11867 1ca842041d785888ba4c0bc868387beb ""
   (generated)
   "TheoryAlgebra.log"
-  "/Users/olegsidorenkov/Desktop/Algebra/AlgebraSummerExam/TheoryAlgebra.log"
-  "TheoryAlgebra.out"
-  "TheoryAlgebra.aux"
   "TheoryAlgebra.pdf"
+  "/Users/olegsidorenkov/Desktop/Algebra/AlgebraSummerExam/TheoryAlgebra.log"
   "/Users/olegsidorenkov/Desktop/Algebra/AlgebraSummerExam/TheoryAlgebra.pdf"
+  "TheoryAlgebra.aux"
+  "TheoryAlgebra.out"
